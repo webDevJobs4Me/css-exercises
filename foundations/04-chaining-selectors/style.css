@@ -1,16 +1,12 @@
-.avatar{
-   width:200px; 
-
+.avatar {
+  width: 200px;
 }
-.original{
-    width: 300px;
+.original {
+  width: 300px;
 }
-.avatar.distorted{
- 
-    height:400px;
+.avatar.distorted {
+  height: 400px;
 }
-.original.proportioned{
-   
-    height:auto;
-
+.original.proportioned {
+  height: auto;
 }
